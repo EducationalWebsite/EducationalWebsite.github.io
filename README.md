@@ -1,2 +1,2 @@
 # EducationalWebsite.github.io
-Nothing special, just a website ;-)
+Here to help the ones who need help
