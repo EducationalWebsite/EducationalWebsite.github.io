@@ -1,0 +1,64 @@
+Notes:
+<i class="fa fa-superscript"></i> Mathematics
+<i class="fa fa-superscript"></i> Algebra
+<i class="fa fa-cube"></i> Geometry
+<i class="fa fa-bar-chart"></i> Applied Mathematics
+<i class="fa fa-magnet"></i> Physics
+<i class="fa fa-flask"></i> Chemistry
+<i class="fa fa-heartbeat"></i> Biology
+<i class="fa fa-user"></i> Psychology
+<i class="fa fa-cloud"></i> Geology
+<i class="fa fa-star-half-o"></i> Astronomy
+<i class="fa fa-file"></i> English
+<i class="fa fa-rocket"></i> Sciences <b class="caret"></b>
+<i class="fa fa-info"></i> Information
+
+<div class="page-header">
+<div class="container">
+<titlefont>
+<h1>
+The Educational Website
+</h1>
+</titlefont>
+</div>
+</div>
+
+					<li><a href="/en/aboutus/main"><i class="fa fa-users"></i> About Us</a></li>
+					<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-superscript"></i>   Mathematics <b class="caret"></b></a>
+						<ul class="dropdown-menu dropdown-menu-left">
+						<li><a href="/en/algebra/main"><i class="fa fa-superscript"></i> Algebra</a></li>
+						<li><a href="/en/geometry/main"><i class="fa fa-cube"></i> Geometry</a></li>						
+						<li><a href="/en/appliedmathematics/main"><i class="fa fa-bar-chart"></i> Applied Mathematics</a></li>
+						</ul>
+					</li>
+					<li class="dropdown"><a href="#" class"dropdown-toggle" data-toggle="dropdown"><i class="fa fa-rocket"></i>   Sciences <b class="caret"></b></a>
+						<ul class="dropdown-menu dropdown-menu-left">
+						<li><a href="/en/physics/main"><i class="fa fa-magnet"></i>  Physics</a></li>						
+						<li><a href="/en/chemistry/main"><i class="fa fa-flask"></i> Chemistry</a></li>						
+						<li><a href="/en/biology/main"><i class="fa fa-heartbeat"></i> Biology</a></li>						
+						<li><a href="/en/psychology/main"><i class="fa fa-user"></i> Psychology</a></li>						
+						<li><a href="/en/geology/main"><i class="fa fa-cloud"></i>   Geology</a></li>						
+						<li><a href="/en/astronomy/main"><i class="fa fa-star-half-o"></i> Astronomy</a></li>
+						</ul>
+					</li>
+					<li><a href="/en/history/main"><i class="fa fa-history"></i> History</a></li>
+					<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-book"></i>   Languages <b class="caret"></b></a>
+						<ul class="dropdown-menu dropdown-menu-left">
+						<li><a href="/en/english/main"><i class="fa fa-file"></i> English</a></li>
+						<li class="disabled"><a href="/en/german/main"><i class="fa fa-file"></i> German</a></li>
+						<li class="disabled"><a href="/en/french/main"><i class="fa fa-file"></i> French</a></li>
+						<li class="disabled"><a href="/en/spanish/main"><i class="fa fa-file"></i> Spanish</a></li>
+						<li class="disabled"><a href="/en/finnish/main"><i class="fa fa-file"></i> Finnish</a></li>
+						<li class="disabled"><a href="/en/swedish/main"><i class="fa fa-file"></i> Swedish</a></li>
+						<li class="disabled"><a href="/en/russian/main"><i class="fa fa-file"></i> Russian</a></li>
+						<li class="disabled"><a href="/en/chinese/main"><i class="fa fa-file"></i> Chinese</a></li>
+						<li class="disabled"><a href="/en/japanese/main"><i class="fa fa-file"></i> Japanese</a></li>
+						</ul>
+					</li>			
+							
+					<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-th-list"></i>   More <b class="caret"></b></a>
+						<ul class="dropdown-menu dropdown-menu-right">
+						<li><a href="/en/students/main"><i class="fa fa-users"></i> Students</a></li>						
+						<li><a href="/en/contribute/main"><i class="fa fa-upload"></i> Contribute</a></li>						
+						<li><a href="/en/donate/main"><i class="fa fa-heart"></i> Donate</a></li>
+						</ul>
