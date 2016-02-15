@@ -1101,11 +1101,9 @@ textarea {
   line-height: inherit;
 }
 a {
-<<<<<<< HEAD
   color: #2780e3;
-=======
   color: #000000;
->>>>>>> origin/master
+
   text-decoration: none;
 }
 a:hover,
@@ -1232,11 +1230,8 @@ h2,
 h3,
 .h3 {
   margin-top: 21px;
-<<<<<<< HEAD
   margin-bottom: 10.5px;
-=======
   margin-bottom: 21px;
->>>>>>> origin/master
 }
 h1 small,
 .h1 small,
@@ -1421,13 +1416,11 @@ a.bg-danger:focus {
   background-color: #cc002e;
 }
 .page-header {
-<<<<<<< HEAD
+
   padding-bottom: 9.5px;
   margin: 42px 0 21px;
-=======
   padding-bottom: 0px;
   margin: 23px 0 23px;
->>>>>>> origin/master
   border-bottom: 1px solid #e6e6e6;
 }
 ul,
@@ -3631,13 +3624,10 @@ tbody.collapse.in {
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
   text-decoration: none;
-<<<<<<< HEAD
   color: #ffffff;
   background-color: #9954bb;
-=======
   color: #9954bb;
   background-color: #ffffff;
->>>>>>> origin/master
 }
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
@@ -4053,21 +4043,15 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-<<<<<<< HEAD
   padding: 10px 15px;
-=======
   padding: 15px;
->>>>>>> origin/master
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-<<<<<<< HEAD
   background-color: #e6e6e6;
-=======
   background-color: #ffffff;
   color: #9954bb;
->>>>>>> origin/master
 }
 .nav > li.disabled > a {
   color: #999999;
@@ -4082,13 +4066,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav .open > a,
 .nav .open > a:hover,
 .nav .open > a:focus {
-<<<<<<< HEAD
   background-color: #e6e6e6;
   border-color: #2780e3;
-=======
   background-color: #ffffff;
   border-color: #000000;
->>>>>>> origin/master
 }
 .nav .nav-divider {
   height: 1px;
@@ -4250,14 +4231,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar {
   position: relative;
   min-height: 50px;
-<<<<<<< HEAD
+
   margin-bottom: 21px;
   border: 1px solid transparent;
-=======
+
   margin-top: 23px;
   margin-bottom: 0px;
   border: 0px solid transparent;
->>>>>>> origin/master
+
 }
 @media (min-width: 768px) {
   .navbar {
@@ -4271,13 +4252,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-collapse {
   overflow-x: visible;
-<<<<<<< HEAD
+
   padding-right: 15px;
   padding-left: 15px;
-=======
+
   padding-right: 0px;
   padding-left: 0px;
->>>>>>> origin/master
+
   border-top: 1px solid transparent;
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
           box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
@@ -4455,13 +4436,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     float: left;
   }
   .navbar-nav > li > a {
-<<<<<<< HEAD
+
     padding-top: 14.5px;
     padding-bottom: 14.5px;
-=======
+
     padding-top: 5.5px;
     padding-bottom: 5.5px;
->>>>>>> origin/master
+
   }
 }
 .navbar-form {
