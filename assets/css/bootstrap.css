@@ -1101,7 +1101,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #2780e3;
+  color: #9954bb;
   text-decoration: none;
 }
 a:hover,
@@ -6908,7 +6908,8 @@ table .info a,
   border: 1px solid #3fb618;
 }
 .nav-pills > li > a {
-  border-radius: 0;
+  border-radius: 1px;
+  border-color: #000000;
 }
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
